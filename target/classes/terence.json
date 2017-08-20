@@ -1,0 +1,12 @@
+{
+    "birthday": "1992-11-09",
+    "school": "qushi",
+    "has_girlfriend": false,
+    "age": 25,
+    "name": "simeng",
+    "comment": "注释",
+    "major": [
+        "程序员",
+        "教师"
+    ]
+}
